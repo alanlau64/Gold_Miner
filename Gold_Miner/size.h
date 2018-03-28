@@ -16,6 +16,9 @@
 #define MINERWIDTH 144		//¿ó¹¤Í¼Æ¬¿í
 #define MINERHEIGHT 120		//¿ó¹¤Í¼Æ¬¸ß
 //////// ¿ó¹¤³ß´ç
+#define GRABWIDTH 60		//¹³×Ó¿í
+#define GRABHEIGHT 50		//¹³×Ó¸ß
+//////// ¹³×Ó³ß´ç
 #define BOTTONWIDTH 180		//°´Å¥¿í
 #define BOTTONHEIGHT 90		//°´Å¥¸ß
 //////// °´Å¥³ß´ç
