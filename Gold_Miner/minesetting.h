@@ -23,6 +23,6 @@
 #define DMVALUE 600
 #define DMWEIGHT 20
 ////////
-#define BAGVALUE 100
+#define BAGVALUE 0
 #define BAGWEIGHT (RandomNum() / 100 + 100)
 #endif
