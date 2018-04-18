@@ -22,6 +22,9 @@
 #define BOTTONWIDTH 180		//按钮宽
 #define BOTTONHEIGHT 90		//按钮高
 //////// 按钮尺寸
+#define BOARDWIDTH 500		//排行榜宽度
+#define BOARDHEIGHT 700		//排行榜高度
+//////// 排行榜尺寸
 #define LGOLDSIZE 150		//大金块宽高
 #define MGOLDSIZE 100		//中金块宽高
 #define SGOLDSIZE 50		//小金块宽高
